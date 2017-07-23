@@ -1,0 +1,620 @@
+body {
+	background-image: url("../images/concrete_seamless.png");
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h2 {
+	color: #4aaaa5 ;
+	font-family: font-family: "Georgia", Times, Times New Roman, serif;
+}
+
+.wrapper {
+	width: auto;
+	overflow: auto;
+	height: auto;
+	margin: auto;
+}
+
+#name {
+	background-color: #4aaaa5;
+	font-family: font-family: "Georgia", Times, Times New Roman, serif;
+	color: #ffffff;
+	height: 75px;
+	width: 175px;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 75px;
+    position: relative;
+    left:100px;
+}
+
+#navBar {
+	
+	background-color: #ffffff;
+	margin-left: auto ;
+	margin-right: auto ;
+	position: relative;
+	top:-25px;
+	height: 75px;
+	}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    float: right;
+    position: relative;
+    top: -89px;
+    right:100px;
+}
+
+li {
+
+	float: right;
+	
+}
+
+.border {
+	border-right: solid;
+	border-color: black;
+}
+
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+ }
+
+#aboutMe {
+	
+	position: relative;
+	left: 100px;
+	width: 700px;
+	height: 400px;
+	padding: 15px;
+	background-color: #ffffff;
+	display: block;
+	border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+
+}
+
+.aboutMeText {
+
+	margin: 10px;
+	position: inline;
+}
+
+
+
+#connectWithMe {
+	
+	height: 200px;
+	width: 350px;
+	
+	background-color: #ffffff;
+	display: block;
+	position: relative;
+	top: -430px;
+	right: -921px;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    padding: 15px;
+    border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+
+}
+
+#connectWithMe2 {
+
+	height: 200px;
+	width: 350px;
+	
+	background-color: #ffffff;
+	display: block;
+	position: relative;
+	top: -532px;
+	right: -921px;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    padding: 15px;
+    border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+
+
+}
+
+#connectWithMe3 {
+	height: 200px;
+	width: 350px;
+	
+	background-color: #ffffff;
+	display: block;
+	position: relative;
+	top: -681px;
+	right: -921px;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    padding: 15px;
+    border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+}
+
+
+#Daniel {
+	float: left;
+	margin-right: 20px;
+
+}
+
+.aboutMeText {
+	padding: 10px;
+	
+
+
+}
+
+#copyright {
+	background-color: #666666;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 90px;
+    width: 100%;
+    overflow:hidden;
+	border-top: solid;
+	border-top-color: #4aaaa5;
+	border-top-width: 15px;
+
+}
+
+#copyrightText {
+	position: relative;
+	left: 670px;
+	bottom: -25px;
+}	
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.container {
+    background-color: #ffffff;
+    padding: 15px;
+    height: 500px;
+    width: 700px;
+    position: relative;
+	left: 100px;
+	border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+}
+
+#portfolioProjects {
+	background-color: #ffffff;
+	position: relative;
+	left: 100px;
+	width: 700px;
+	height: 650px;
+	padding: 15px;
+	display: block;
+	border: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+
+}
+
+#portfolioProjectsItems {
+	display: inline;
+}
+
+.portfolioPics {
+	height: 150px;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+.portfolioText {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width:300px;
+	position: relative;
+    top: -64px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px; 
+    margin: 0;
+    padding: 0;
+
+}
+
+#hangman {
+	position: relative;
+	left: 18px;
+	top: 9px;
+}
+
+#rpgGame {
+	position: relative;
+	top: -177px;
+	left: 373px;
+}
+
+#triviaGame {
+	position: relative;
+	top: -175px;
+	left: 18px;
+
+}
+
+#rutgersInfo {
+	position: relative;
+	top: -360px;
+	left: 373px;
+
+}
+
+#rockPaperScissors {
+	position: relative;
+	top: -360px;
+	left: 18px;
+}
+
+a {
+	text-decoration: none;
+}
+
+@media screen and  (max-width: 980px) {
+
+.wrapper {
+ 	width: 980px;
+ 	height: auto;
+ }
+
+#aboutMe {
+  	clear: both;
+  	display: block;
+  	height: 600px;
+  	width: 300px;
+  	position: relative;
+  	top: -50px;
+
+  	
+  	
+
+  }
+
+#Daniel {
+  	text-align: center;
+  }
+
+.aboutMeText {
+  	display: block;
+  	clear: both;
+  	padding: 0;
+  	margin:0;
+  } 
+
+#connectWithMe {
+  	width: 250px;
+  	position: relative;
+	top: -683px;
+    right: -501px;
+  }
+
+#connectWithMe2{
+  	width: 250px;
+  	position: relative;
+	top: -530px;
+	right: -480px;
+  }
+#connectWithMe3 {
+  	width: 250px;
+  	position: relative;
+	top: -1055px;
+	right: -513px;
+  }
+
+#navBar {
+	width: 100%;
+}
+
+#copyright {
+    width: 100%;
+}
+
+#copyrightText {
+	position: relative;
+	bottom: -25px;
+	left: 300px;
+
+}
+
+#portfolioProjects {
+	display: block;
+	width: 330px;
+	height: 1025px;
+
+
+
+}
+#rutgersInfo {
+	position: relative;
+	top: 0px;
+	left: 18px;
+}
+
+#rpgGame {
+	position: relative;
+	top: 550px;
+	left: 18px;
+}
+
+.container {
+	width: 300px;
+}
+}
+@media screen and  (max-width: 768px) {
+
+.wrapper {
+ 	width: 768px;
+ 	height: auto;
+ }
+
+#aboutMe {
+  	position: relative;
+	left: 100px;
+	width: 550px;
+	height: 400px;
+}
+
+#Daniel {
+  	text-align: center;
+  	float: left;
+  	display: inline;
+  }
+
+.aboutMeText {
+  	display: inline;
+  	float: left;
+  	padding: 0;
+  	margin:0;
+  	width: 300px;
+  	position: relative;
+  	left: 240px;
+  	top: -250px;
+  } 
+
+#connectWithMe {
+    width: 550px;
+  	position: relative;
+	top: 50px;
+	right: -99px;
+	text-align: left;
+	margin-bottom: 100px;
+	
+  }
+
+#connectWithMeText {
+	clear: both;
+	position: relative;
+    left: -1px;
+    top: -128px;
+
+  }
+#connectWithMe2 {
+  	width: 550px;
+  	position: relative;
+	top: 50px;
+	right: -100px;
+	text-align: left;
+	margin-bottom: 100px;
+  }
+#connectWithMe3 {
+  	width: 550px;
+  	position: relative;
+	top: 50px;
+	right: -99px;
+	text-align: left;
+	margin-bottom: 100px;
+  }
+
+  #navBar {
+	width: 100%;
+}
+
+#copyright {
+    width: 100%;
+}
+
+#copyrightText {
+	position: relative;
+	bottom: -25px;
+	left: 275px;
+
+}
+
+ul {
+	right:23px;
+}
+
+#portfolioProjects {
+	
+	width: 550px;
+	height: 700px;
+
+
+
+}
+
+.portfolioPics {
+	width: 200px;
+}
+
+.portfolioText {
+	width: 200px;
+}
+#rutgersInfo {
+	position: relative;
+	top: -545px;
+	left: 275px;
+}
+
+#rpgGame {
+	position: relative;
+	top: 5px;
+	left: 275px;
+}
+
+.container {
+	width: 550px;
+}
+
+}
+
+@media screen and  (max-width: 640px) {
+
+.wrapper {
+	width: 640px;
+
+}
+
+#name {
+	width: 1000px;
+    position: relative;
+    left: -219px;
+}
+
+ul {
+	position: relative;
+    width: 640px;
+    top: -22px;
+    left: -42px;
+}
+
+li {
+	position: relative;
+	left: -128px;
+}
+
+#navBar {
+	width: 104%;
+    position: relative;
+    left: 16px;
+}
+
+
+#aboutMe {
+    position: relative;
+    top: 0px;
+    left: 12px;;
+
+}
+
+#connectWithMe {
+	position: relative;
+	left: 13px;
+}
+
+#copyrightText {
+	position: relative;
+	left: 185px;
+
+}
+
+.container {
+	position: relative;
+    left: 16px;
+    top: 53px;
+    height: 528px;
+}
+
+#connectWithMe2 {
+	position: relative;
+	left: 16px;
+    top: 78px;
+
+}
+
+#portfolioProjects {
+	display: block;
+	width: 550px;
+	height: 1076px;
+	position: relative;
+	left: 25px;
+	top: 50px;
+}
+
+.portfolioPics {
+	width: 400px;
+	position: relative;
+	top: 50px;
+	left:50px;
+}
+
+.portfolioText {
+	width: 400px;
+	position: relative;
+	top: 0px;
+	left:50px;
+
+}
+#rutgersInfo {
+	position: relative;
+	top: 0px;
+	left: 18px;
+}
+
+#rpgGame {
+	position: relative;
+	top: 550px;
+	left: 18px;
+}
+
+#connectWithMe3  {
+	position: relative;
+    top: 78px;
+    left: 25px;
+
+
+
+}
+}
