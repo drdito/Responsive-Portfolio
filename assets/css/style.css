@@ -527,31 +527,31 @@ ul {
 	position: relative;
     width: 640px;
     top: -22px;
-    left: -42px;
+    left: -25px;
 }
 
 li {
 	position: relative;
-	left: -128px;
+	left: -137px;
 }
 
 #navBar {
 	width: 104%;
-    position: relative;
-    left: 16px;
+    position: static;
+   
 }
 
 
 #aboutMe {
     position: relative;
     top: 0px;
-    left: 12px;;
+    left: 27px;
 
 }
 
 #connectWithMe {
 	position: relative;
-	left: 13px;
+	left: 26px;
 }
 
 #copyrightText {
@@ -563,14 +563,15 @@ li {
 .container {
 	position: relative;
     left: 16px;
-    top: 53px;
+    top: 84px;
     height: 528px;
 }
 
 #connectWithMe2 {
 	position: relative;
 	left: 16px;
-    top: 78px;
+    top: 105px;
+    margin-bottom: 128px;
 
 }
 
@@ -580,7 +581,7 @@ li {
 	height: 1076px;
 	position: relative;
 	left: 25px;
-	top: 50px;
+	top: 86px;
 }
 
 .portfolioPics {
@@ -611,8 +612,9 @@ li {
 
 #connectWithMe3  {
 	position: relative;
-    top: 78px;
+    top: 110px;
     left: 25px;
+    margin-bottom: 141px;
 
 
 
