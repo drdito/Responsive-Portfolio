@@ -518,21 +518,22 @@ ul {
 }
 
 #name {
-	width: 1000px;
-    position: relative;
-    left: -219px;
+	
+    position:static;
+    
+    width: 100%;
 }
 
 ul {
 	position: relative;
     width: 640px;
     top: -22px;
-    left: -25px;
+    left: -3px;
 }
 
 li {
 	position: relative;
-	left: -137px;
+	left: -107px;
 }
 
 #navBar {
